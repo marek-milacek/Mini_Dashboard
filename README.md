@@ -2,7 +2,7 @@
 
 A simple messageboard application built with Node.js, Express, and PostgreSQL.
 
-![Mini Dashboard Screenshot](image.png)
+![Mini Dashboard Screenshot](public/images/image.png)
 
 ## Features
 
