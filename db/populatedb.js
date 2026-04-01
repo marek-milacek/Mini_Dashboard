@@ -9,9 +9,9 @@ const SQL = `
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
   );
   INSERT INTO messages (username, message) VALUES 
-    ('Honza', 'Ahoj!'),
-    ('Petra', 'Jak se máš?'),
-    ('Tomáš', 'Vše je OK!');
+    ('John', 'Hello!'),
+    ('Jane', 'How are you?'),
+    ('Bob', 'I am good, thanks!');
 `;
 
 async function main() {
