@@ -1,0 +1,11 @@
+<ul>
+    <% messages.forEach((message) => { %>
+        <li>
+            <div class="message-header">
+                <strong><%= message.user %></strong>
+                <span class="date"><%= message.added.toLocaleString() %></span>
+            </div>
+            <p class="message-text"><%= message.text %></p>
+        </li>
+    <% }); %>
+</ul>
