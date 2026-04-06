@@ -95,6 +95,12 @@ node app.js
 
 The application will be available at `http://localhost:3001`
 
+## Live Demo
+
+> ⚠️ **Note**: This live demo is available temporarily (approximately 1 month). Free tier services on Render will eventually be deactivated, and the database will be reset.
+
+[Try the live version here](https://inventory-app-q3zh.onrender.com/)
+
 ## Usage
 
 1. **View Messages**: Visit the home page to see all messages
